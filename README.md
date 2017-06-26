@@ -8,8 +8,7 @@
 
 
 Python solutions are coded using Python3
-
 SQL solutions are coded using MySQL
 
-* [Python](#python)  
-* [SQL](#sql)
+* [Python](https://github.com/avtomato/HackerRank/tree/master/Python)  
+* [SQL](https://github.com/avtomato/HackerRank/tree/master/SQL)
