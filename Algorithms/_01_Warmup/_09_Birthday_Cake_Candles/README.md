@@ -7,8 +7,8 @@ The first line contains a single integer, ![equation](http://latex.codecogs.com/
 The second line contains ![equation](http://latex.codecogs.com/svg.latex?\inline&space;n) space-separated integers, where each integer ![equation](http://latex.codecogs.com/svg.latex?\inline&space;i) describes the height of candle ![equation](http://latex.codecogs.com/svg.latex?\inline&space;i).
 
 __Constraints__<br>
-![equation](https://latex.codecogs.com/svg.latex?\inline&space;(1&space;\le&space;n&space;\le&space;10^5))<br>
-![equation](https://latex.codecogs.com/svg.latex?\inline&space;(1&space;\le&space;height_i&space;\le&space;10^7))
+* ![equation](https://latex.codecogs.com/svg.latex?\inline&space;1&space;\le&space;n&space;\le&space;10^5)
+* ![equation](https://latex.codecogs.com/svg.latex?\inline&space;1&space;\le&space;height_i&space;\le&space;10^7)
 
 __Output Format__<br>
 Print the number of candles Colleen blows out on a new line.

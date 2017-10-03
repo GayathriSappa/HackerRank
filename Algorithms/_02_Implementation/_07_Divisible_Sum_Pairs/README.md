@@ -26,8 +26,8 @@ __Sample Output__
 __Explanation__
 
 Here are the  valid pairs:
-* ![equation](https://latex.codecogs.com/gif.latex?\inline&space;(0,&space;2)&space;\rightarrow&space;a_0&space;&plus;&space;a_2&space;=&space;1&space;&plus;&space;2&space;=&space;3)
-* ![equation](https://latex.codecogs.com/gif.latex?\inline&space;(0,&space;5)&space;\rightarrow&space;a_0&space;&plus;&space;a_5&space;=&space;1&space;&plus;&space;2&space;=&space;3)
-* ![equation](https://latex.codecogs.com/gif.latex?\inline&space;(1,&space;3)&space;\rightarrow&space;a_1&space;&plus;&space;a_3&space;=&space;3&space;&plus;&space;6&space;=&space;9)
-* ![equation](https://latex.codecogs.com/gif.latex?\inline&space;(2,&space;4)&space;\rightarrow&space;a_2&space;&plus;&space;a_4&space;=&space;2&space;&plus;&space;1&space;=&space;3)
-* ![equation](https://latex.codecogs.com/gif.latex?\inline&space;(4,&space;5)&space;\rightarrow&space;a_4&space;&plus;&space;a_5&space;=&space;1&space;&plus;&space;2&space;=&space;3)
+* ![equation](https://latex.codecogs.com/svg.latex?\inline&space;(0,&space;2)&space;\rightarrow&space;a_0&space;&plus;&space;a_2&space;=&space;1&space;&plus;&space;2&space;=&space;3)
+* ![equation](https://latex.codecogs.com/svg.latex?\inline&space;(0,&space;5)&space;\rightarrow&space;a_0&space;&plus;&space;a_5&space;=&space;1&space;&plus;&space;2&space;=&space;3)
+* ![equation](https://latex.codecogs.com/svg.latex?\inline&space;(1,&space;3)&space;\rightarrow&space;a_1&space;&plus;&space;a_3&space;=&space;3&space;&plus;&space;6&space;=&space;9)
+* ![equation](https://latex.codecogs.com/svg.latex?\inline&space;(2,&space;4)&space;\rightarrow&space;a_2&space;&plus;&space;a_4&space;=&space;2&space;&plus;&space;1&space;=&space;3)
+* ![equation](https://latex.codecogs.com/svg.latex?\inline&space;(4,&space;5)&space;\rightarrow&space;a_4&space;&plus;&space;a_5&space;=&space;1&space;&plus;&space;2&space;=&space;3)

@@ -4,7 +4,7 @@ __Input Format__<br>
 The first line contains a single integer, ![equation](http://latex.codecogs.com/svg.latex?\inline&space;N). The next ![equation](http://latex.codecogs.com/svg.latex?\inline&space;N) lines denote the matrix's rows, with each line containing ![equation](http://latex.codecogs.com/svg.latex?\inline&space;N) space-separated integers describing the columns.
 
 __Constraints__
-* ![equation](https://latex.codecogs.com/svg.latex?\inline&space;(-100&space;\le&space;Elements&space;in&space;the&space;matrix&space;\le&space;100))
+* ![equation](https://latex.codecogs.com/svg.latex?\inline&space;-100&space;\le&space;Elements&space;in&space;the&space;matrix&space;\le&space;100)
 
 __Output Format__<br>
 Print the absolute difference between the two sums of the matrix's diagonals as a single integer.

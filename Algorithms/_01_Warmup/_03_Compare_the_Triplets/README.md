@@ -17,8 +17,8 @@ The first line contains ![equation](http://latex.codecogs.com/svg.latex?\inline&
 The second line contains ![equation](http://latex.codecogs.com/svg.latex?\inline&space;3) space-separated integers, ![equation](http://latex.codecogs.com/svg.latex?\inline&space;b_0), ![equation](http://latex.codecogs.com/svg.latex?\inline&space;b_1), and ![equation](http://latex.codecogs.com/svg.latex?\inline&space;b_2), describing the respective values in triplet ![equation](http://latex.codecogs.com/svg.latex?\inline&space;B).
 
 __Constraints__
-* ![equation](https://latex.codecogs.com/svg.latex?\inline&space;(1&space;\le&space;a_i&space;\le&space;100))
-* ![equation](https://latex.codecogs.com/svg.latex?\inline&space;(1&space;\le&space;b_i&space;\le&space;100))
+* ![equation](https://latex.codecogs.com/svg.latex?\inline&space;1&space;\le&space;a_i&space;\le&space;100)
+* ![equation](https://latex.codecogs.com/svg.latex?\inline&space;1&space;\le&space;b_i&space;\le&space;100)
 
 __Output Format__<br>
 Print two space-separated integers denoting the respective comparison points earned by Alice and Bob.

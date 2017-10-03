@@ -7,8 +7,8 @@ __Output Format__<br>
 Print a single value equal to the sum of the elements in the array.
 
 __Constraints__<br> 
-![equation](https://latex.codecogs.com/svg.latex?\inline&space;(1&space;\le&space;N&space;\le&space;10))<br>
-![equation](https://latex.codecogs.com/svg.latex?\inline&space;(0&space;\le&space;A[i]&space;\le&space;10^{10})) 
+![equation](https://latex.codecogs.com/svg.latex?\inline&space;1&space;\le&space;N&space;\le&space;10)<br>
+![equation](https://latex.codecogs.com/svg.latex?\inline&space;0&space;\le&space;A[i]&space;\le&space;10^{10}) 
 
 __Sample Input__
 ```commandline
