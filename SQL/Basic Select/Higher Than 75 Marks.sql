@@ -1,4 +1,0 @@
-/*
-Enter your query here.
-*/
-SELECT NAME FROM STUDENTS WHERE MARKS > 75 ORDER BY(SELECT RIGHT (NAME, 3)), ID;
