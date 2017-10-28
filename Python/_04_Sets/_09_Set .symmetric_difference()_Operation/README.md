@@ -1,3 +1,5 @@
+![](https://github.com/avtomato/HackerRank/blob/master/Python/img/1437912471-534f33cf60-AB.png)
+
 __.symmetric_difference()__
 
 The .symmetric_difference() operator returns a set with all the elements that are in the set and the iterable but not both.<br>

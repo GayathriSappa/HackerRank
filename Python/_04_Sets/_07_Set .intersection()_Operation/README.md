@@ -1,3 +1,5 @@
+![](https://github.com/avtomato/HackerRank/blob/master/Python/img/1437830945-a56a63892c-AB.png)
+
 __.intersection()__
 
 The .intersection() operator returns the intersection of a set and the set of elements in an iterable.<br>

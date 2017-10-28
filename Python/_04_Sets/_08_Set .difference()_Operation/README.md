@@ -1,3 +1,5 @@
+![](https://github.com/avtomato/HackerRank/blob/master/Python/img/1437904659-11e4bef847-A-B.png)
+
 __.difference()__
 
 The tool .difference() returns a set with all the elements from the set that are not in an iterable.<br>
